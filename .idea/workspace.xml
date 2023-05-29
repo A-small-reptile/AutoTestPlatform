@@ -19,15 +19,21 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dd357c8-9cc3-4f39-af02-83dbd1f7d600" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AutoTestPlatform.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutoTestPlatform.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotestpaltform/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPaltform/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotestpaltform/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPaltform/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotestpaltform/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPaltform/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotestpaltform/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPaltform/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/autotestpaltform/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPaltform/wsgi.py" afterDir="false" />
+    <list default="true" id="3dd357c8-9cc3-4f39-af02-83dbd1f7d600" name="Default Changelist" comment="文件名修改">
+      <change afterPath="$PROJECT_DIR$/AutoTestPlatform/testdemo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTestPlatform/testdemo/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTestPlatform/testdemo/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTestPlatform/testdemo/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTestPlatform/testdemo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTestPlatform/testdemo/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTestPlatform/testdemo/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTestPaltform/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPlatform/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTestPaltform/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPlatform/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTestPaltform/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPlatform/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTestPaltform/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPlatform/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTestPaltform/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/AutoTestPlatform/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,11 +44,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2QQVp7PexDlklZDB9tUcn5Bd6Dv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../python_django/python-master" />
@@ -105,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1685285972038</updated>
     </task>
+    <task id="LOCAL-00001" summary="文件名修改">
+      <created>1685371161602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685371161602</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,27 +137,56 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="文件名修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="文件名修改" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="600" y="353" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1685374953152">
+      <screen x="0" y="0" width="1728" height="1104" />
+    </state>
+    <state x="600" y="353" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1728.1104@0.0.1728.1104" timestamp="1685374953152" />
     <state x="645" y="293" key="FileChooserDialogImpl" timestamp="1685371034754">
       <screen x="0" y="0" width="1728" height="1104" />
     </state>
     <state x="645" y="293" key="FileChooserDialogImpl/0.0.1728.1104@0.0.1728.1104" timestamp="1685371034754" />
-    <state width="1707" height="303" key="GridCell.Tab.0.bottom" timestamp="1685289587505">
+    <state width="1692" height="373" key="GridCell.Tab.0.bottom" timestamp="1685372168825">
       <screen x="0" y="0" width="1728" height="1104" />
     </state>
-    <state width="1707" height="303" key="GridCell.Tab.0.bottom/0.0.1728.1104@0.0.1728.1104" timestamp="1685289587505" />
-    <state width="1707" height="303" key="GridCell.Tab.0.center" timestamp="1685289587505">
+    <state width="1692" height="373" key="GridCell.Tab.0.bottom/0.0.1728.1104@0.0.1728.1104" timestamp="1685372168825" />
+    <state width="1692" height="373" key="GridCell.Tab.0.center" timestamp="1685372168825">
       <screen x="0" y="0" width="1728" height="1104" />
     </state>
-    <state width="1707" height="303" key="GridCell.Tab.0.center/0.0.1728.1104@0.0.1728.1104" timestamp="1685289587505" />
-    <state width="1707" height="303" key="GridCell.Tab.0.left" timestamp="1685289587505">
+    <state width="1692" height="373" key="GridCell.Tab.0.center/0.0.1728.1104@0.0.1728.1104" timestamp="1685372168825" />
+    <state width="1692" height="373" key="GridCell.Tab.0.left" timestamp="1685372168825">
       <screen x="0" y="0" width="1728" height="1104" />
     </state>
-    <state width="1707" height="303" key="GridCell.Tab.0.left/0.0.1728.1104@0.0.1728.1104" timestamp="1685289587505" />
-    <state width="1707" height="303" key="GridCell.Tab.0.right" timestamp="1685289587505">
+    <state width="1692" height="373" key="GridCell.Tab.0.left/0.0.1728.1104@0.0.1728.1104" timestamp="1685372168825" />
+    <state width="1692" height="373" key="GridCell.Tab.0.right" timestamp="1685372168825">
       <screen x="0" y="0" width="1728" height="1104" />
     </state>
-    <state width="1707" height="303" key="GridCell.Tab.0.right/0.0.1728.1104@0.0.1728.1104" timestamp="1685289587505" />
+    <state width="1692" height="373" key="GridCell.Tab.0.right/0.0.1728.1104@0.0.1728.1104" timestamp="1685372168825" />
+    <state width="1692" height="373" key="GridCell.Tab.1.bottom" timestamp="1685372168825">
+      <screen x="0" y="0" width="1728" height="1104" />
+    </state>
+    <state width="1692" height="373" key="GridCell.Tab.1.bottom/0.0.1728.1104@0.0.1728.1104" timestamp="1685372168825" />
+    <state width="1692" height="373" key="GridCell.Tab.1.center" timestamp="1685372168825">
+      <screen x="0" y="0" width="1728" height="1104" />
+    </state>
+    <state width="1692" height="373" key="GridCell.Tab.1.center/0.0.1728.1104@0.0.1728.1104" timestamp="1685372168825" />
+    <state width="1692" height="373" key="GridCell.Tab.1.left" timestamp="1685372168825">
+      <screen x="0" y="0" width="1728" height="1104" />
+    </state>
+    <state width="1692" height="373" key="GridCell.Tab.1.left/0.0.1728.1104@0.0.1728.1104" timestamp="1685372168825" />
+    <state width="1692" height="373" key="GridCell.Tab.1.right" timestamp="1685372168825">
+      <screen x="0" y="0" width="1728" height="1104" />
+    </state>
+    <state width="1692" height="373" key="GridCell.Tab.1.right/0.0.1728.1104@0.0.1728.1104" timestamp="1685372168825" />
+    <state x="564" y="150" width="600" height="804" key="find.popup" timestamp="1685372491295">
+      <screen x="0" y="0" width="1728" height="1104" />
+    </state>
+    <state x="564" y="150" width="600" height="804" key="find.popup/0.0.1728.1104@0.0.1728.1104" timestamp="1685372491295" />
     <state x="527" y="241" key="search.everywhere.popup" timestamp="1685370713091">
       <screen x="0" y="0" width="1728" height="1104" />
     </state>
